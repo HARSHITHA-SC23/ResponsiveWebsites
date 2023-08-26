@@ -27,7 +27,7 @@
 
 ## Overview
 
-![screenshot](![Alt text](assets/image.png))
+![Alt text](assets/image.png)
 
 ### Built With
 
@@ -38,9 +38,9 @@
 
 ## Features
 
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
+<!-- List the features of your application or follow the template. Don't share the Figma file here :) -->
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to Create a 404 not found page following the design. The page should be responsive. .
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to Create a 404 not found page following the design. The page should be responsive.
 
 
 ## Contact
